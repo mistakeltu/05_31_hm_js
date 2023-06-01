@@ -5,6 +5,7 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
+    "hmjs": "nodemon ./06_01_hm.js",
     "index": "nodemon ./index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
